@@ -1,1 +1,22 @@
+Stay Safe Online – Checklist
 
+Prevention Tips
+Use strong, unique passwords for every account (combine letters, numbers, symbols)
+Enable two-factor authentication (2FA) on important apps (email, banking, social media)
+Never share OTP, PIN, or passwords with anyone—even if they claim to be from a bank
+Avoid clicking on unknown links or downloading suspicious attachments
+Always verify website URLs (look for https:// and correct spelling)
+Keep your devices updated with the latest software and security patches
+Limit personal information shared on social media (phone number, address, ID details)
+Log out from accounts when using public or shared computers
+
+
+Financial / UPI Safety (Important)
+Never approve unknown UPI payment requests—receiving money does NOT require approval
+Double-check the UPI ID and name before sending money
+Avoid scanning random QR codes shared by strangers
+Use only official apps like Google Pay, PhonePe, or Paytm
+
+Report Cybercrime Immediately
+Report online fraud at the National Cyber Crime Portal: cybercrime.gov.in
+Call the Cyber Crime Helpline: 1930 for immediate assistance
